@@ -1,2 +1,3 @@
 # Turtle_Crossing
 Turtle Crossing is a simple python game developed mainly using the turtle library. It updates the level each time the turtle makes it to the other end without touching the blocks.
+ It includes four files, main.py(include the code to create the screen environment and to integrate the classes present in other files), player.py(to create the turtle in one end and to make it move till the other end when a up arrow key is pressed), car_generate.py(to generate the blocks to move horizontally which represents the cars), scoreboard.py(to update the level each time the turtle reach to the other end without encountering the blocks). 
